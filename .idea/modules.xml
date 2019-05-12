@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../declarative-transaction-demo/declarative-transaction-demo.iml" filepath="$PROJECT_DIR$/../declarative-transaction-demo/declarative-transaction-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../errorcode-demo/errorcode-demo.iml" filepath="$PROJECT_DIR$/../errorcode-demo/errorcode-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../helloworld/helloworld.iml" filepath="$PROJECT_DIR$/../helloworld/helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programmatic-transaction-demo.iml" filepath="$PROJECT_DIR$/programmatic-transaction-demo.iml" />
+    </modules>
+  </component>
+</project>
